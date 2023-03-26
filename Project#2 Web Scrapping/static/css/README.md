@@ -1,0 +1,1 @@
+Static with css for the color display & style for the web page link through HTML pages 
